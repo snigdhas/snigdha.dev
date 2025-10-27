@@ -6,3 +6,4 @@ theme = "dream"
 [params]
 lightTheme = "caramellatte"
 darkTheme = "forest"
+avatar = "images/me.jpg"

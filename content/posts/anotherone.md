@@ -1,11 +1,11 @@
 ---
-title: Pokemon
+title: Hello
 date: '2025-10-26T20:52:29-07:00'
 lastmod: '2025-10-26T20:52:29-07:00'
 author: Author Name
 # avatar: /img/author.jpg
 # authorlink: https://author.site
-cover: /img/cover.jpg
+cover: /images/me.jpg
 # images:
 #   - /img/cover.jpg
 categories:

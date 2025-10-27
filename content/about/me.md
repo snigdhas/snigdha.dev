@@ -1,7 +1,5 @@
 ---
-title: About Me
+title: Hi, I'm Snigdha!
 ---
  
-Hi, my name is Yue Yang.
- 
-This is my blog.
+I don’t know exactly what this blog will become, but I’m excited to find out and I’m glad you’re here for the ride!
