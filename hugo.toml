@@ -1,9 +1,12 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = "Snigdha's space"
 theme = "dream"
 
 [params]
 lightTheme = "caramellatte"
 darkTheme = "forest"
 avatar = "images/me.jpg"
+headerTitle = "Snigdha's space"
+motto = "Dance along to the beat of your heart"
+footerBottomText = "❤︎"
