@@ -1,6 +1,6 @@
 socials = [
-  { href = "https://github.com/g1eny0ung", target="_blank", icon = "logo-github", title = "GitHub" },
-  { href = "https://instagram.com/g1eny0ung", target="_blank", icon = "logo-instagram", title = "Instagram" },
-  { href = "https://www.linkedin.com/in/g1eny0ung", target="_blank", icon = "logo-linkedin", title = "Linkedin" },
+  { href = "https://github.com/snigdhas", target="_blank", icon = "logo-github", title = "GitHub" },
+  { href = "https://instagram.com/dance.with.snigs/", target="_blank", icon = "logo-instagram", title = "Instagram" },
+  { href = "https://www.linkedin.com/in/snigdhasharma", target="_blank", icon = "logo-linkedin", title = "Linkedin" },
   { href = "https://www.pinterest.com/snigdhas_/", target="_blank", icon = "logo-pinterest", title = "Pinterest" },
 ]
