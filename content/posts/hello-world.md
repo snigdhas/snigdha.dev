@@ -1,7 +1,6 @@
 ---
 title: Hello, World!
-date: 2025-10-09T09:27:57-07:00
-lastmod: 2025-10-09T09:27:57-07:00
+date: 2025-06-01T09:27:57-07:00
 cover: /images/hello-world.jpg
 images:
   - /images/hello-world.jpg
@@ -9,7 +8,6 @@ categories:
   - Musings
 tags:
   - computer-science
-
 nolastmod: true
 ---
 
