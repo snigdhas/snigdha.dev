@@ -10,3 +10,5 @@ avatar = "images/me.jpg"
 headerTitle = "Snigdha's space"
 motto = "Dance along to the beat of your heart"
 footerBottomText = "❤︎"
+
+favicon = "images/favicon.ico"
