@@ -1,7 +1,7 @@
 ---
-title: Hello World
-date: 2025-10-27T16:32:57-07:00
-lastmod: 2025-10-27T16:32:57-07:00
+title: Hello, World!
+date: 2025-10-09T09:27:57-07:00
+lastmod: 2025-10-09T09:27:57-07:00
 cover: /images/hello-world.jpg
 images:
   - /images/hello-world.jpg
@@ -9,6 +9,7 @@ categories:
   - Musings
 tags:
   - computer-science
+
 nolastmod: true
 ---
 
@@ -18,9 +19,9 @@ My first lines of code and my first blog post. Seems appropriate.
 
 I used to find the Hello World programming meme exceptionally cringe, and a little pretentious. _You're writing one line of code and announcing it to the world? Why should the world even care?_
 
-As of late, though, I've found myself becoming more fond of the predictability behind it. Regardless of the language or framework, I know I can expect the docs to hold my hand through at least the first "Hello World". It's like knowing there's someone watching out for you in the scary world of poorly-documented tooling. 
+As of late, though, I've found myself becoming more fond of the predictability behind it. Regardless of the language or framework, I know I can expect the docs to hold my hand through at least the first "Hello World", a reliable guide in the scary world of poorly-documented tooling.
 
-But, I digress. Hello World. If you're here and reading my blog, hello to you too! 
+But, I digress. Hello, world!. If you're here and reading my blog, hello to you too! 
 
 Professionally, I’m a backend software engineer who loves building products that feel intuitive, reliable, and deliver meaningful value to the user. I'm currently working on the Marketplace experience at Roblox. Most of my work happens behind the scenes, building and shaping the data and API layers to deliver the cleanest, fastest shopping experience for our users. I love the challenge of turning messy or complex data into clean, reliable systems that make the product feel intuitive.
 
