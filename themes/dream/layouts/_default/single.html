@@ -64,14 +64,14 @@
           {{ end }}
         </p>
 
-        {{ $hasAuthor := or .Params.author site.Params.author }}
+        <!-- {{ $hasAuthor := or .Params.author site.Params.author }}
         <div class="flex justify-between">
           {{ if $hasAuthor }}
             {{ partial "author.html" (dict "Params" .Params "template" "single") }}
           {{ end }}
 
           {{ partial "share.html" . }}
-        </div>
+        </div> -->
       </header>
 
       <section id="dream-single-post-content" itemprop="articleBody">

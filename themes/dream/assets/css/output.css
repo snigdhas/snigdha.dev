@@ -1175,8 +1175,11 @@
     }
     :where(a):not(:where([class~="not-prose"],[class~="not-prose"] *)) {
       color: var(--tw-prose-links);
-      text-decoration: underline;
+      /* text-decoration: underline; */
       font-weight: 500;
+    }
+    :where(a):not(:where([class~="not-prose"],[class~="not-prose"] *)):hover {
+      text-decoration: underline;
     }
     :where(strong):not(:where([class~="not-prose"],[class~="not-prose"] *)) {
       color: var(--tw-prose-bold);
@@ -2726,6 +2729,7 @@ html {
     --border: 2px;
     --depth: 1;
     --noise: 1;
+    --color-prose-links: oklch(0.9 0.076 70.697);
   }
 }
 @layer base {

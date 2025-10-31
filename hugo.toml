@@ -10,5 +10,7 @@ avatar = "images/me.jpg"
 headerTitle = "Snigdha's space"
 motto = "Dance along to the beat of your heart ❤︎"
 footerBottomText = "❤︎"
+reorderShares = []
+showSummaryCoverInPost = true
 
 favicon = "images/favicon.ico"
