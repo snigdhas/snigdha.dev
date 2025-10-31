@@ -25,7 +25,7 @@ I absolutely _adore_ the excitement that comes with selecting a new project and 
 
 #### Gosh Yarn-it, there's too many choices
 
-Over the past two years, I've knit a handful of things I've really liked ranging from a [full-sized blanket]() to an [adorable tank top](), so I made it my goal for this year to knit a sweater come fall. That brought my to my first dilemma - there are hundreds of sweaters out there that proclaim to be "beginner friendly", but I'm easily bored. A sweater that's all knits the whole way down wouldn't hold my interest for very long.
+Over the past two years, I've knit a handful of things I've really liked ranging from a [full-sized blanket](https://www.ravelry.com/projects/Snigdhas/billowy-quilted-throw-blanket) to an [adorable tank top](https://www.ravelry.com/projects/Snigdhas/olive-top), so I made it my goal for this year to knit a sweater come fall. That brought my to my first dilemma - there are hundreds of sweaters out there that proclaim to be "beginner friendly", but I'm easily bored. A sweater that's all knits the whole way down wouldn't hold my interest for very long.
 
 I resorted to Ravelry and then eventually YouTube to hear from others on their experiences, which brought me to the [Wool Needles Hands](https://www.youtube.com/@WOOLNEEDLESHANDS) channel. Tayler's videos on the Felix sweater convinced me that was the way to start. The aran weight yarn should knit up quickly and was a cute and comfy design with a cheeky leaflet motif on the shoulders.
 
