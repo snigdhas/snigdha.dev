@@ -2,12 +2,12 @@
 title: As I knit my first sweater
 date: 2025-08-16T21:28:40-07:00
 lastmod: 2025-10-27T21:28:40-07:00
-cover: /images/felix-sweater-progress-2.jpg
+cover: felix-sweater-progress-2.jpg
 covercaption: a description of the cover image
 images:
-  - /images/yarn-choice.jpg
-  - /images/felix-sweater-progress-1.jpg
-  - /images/felix-sweater-progress-2.jpg
+  - yarn-choice.jpg
+  - felix-sweater-progress-1.jpg
+  - felix-sweater-progress-2.jpg
 categories:
   - knitting
 tags:

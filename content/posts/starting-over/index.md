@@ -1,7 +1,7 @@
 ---
 title: On starting over (again)
 date: 2025-10-28T13:24:49-07:00
-cover: /images/office.jpg
+cover: office.jpg
 categories:
   - musings
 tags:

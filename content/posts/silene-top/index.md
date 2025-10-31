@@ -2,7 +2,7 @@
 title: Knitting the Silene top
 date: 2025-09-27T22:00:08-07:00
 lastmod: 2025-10-06T22:00:08-07:00
-cover: /images/silene-top-wip.jpg
+cover: silene-top-wip.jpg
 categories:
   - knitting
 tags:

@@ -1,13 +1,13 @@
 ---
 title: Building my dream herb garden
 date: 2025-06-27T22:36:04-07:00
-cover: /images/planter-more-plants.jpg
+cover: planter-more-plants.jpg
 images:
-  - /images/planter-frame.jpg
-  - /images/planter-lined.jpg
-  - /images/planter-filled.jpg
-  - /images/planter-planted.jpg
-  - /images/planter-more-plants.jpg
+  - planter-frame.jpg
+  - planter-lined.jpg
+  - planter-filled.jpg
+  - planter-planted.jpg
+  - planter-more-plants.jpg
 categories:
   - woodworking
   - gardening
@@ -41,7 +41,7 @@ The hardest parts were:
 2. The wood was _insanely_ warped. Even though I tried to pick the nicest pieces out from the hardware store, there was a noticeable amount of warp that I hadn't taken into account when laying out the pieces for the frame. Unfortunately, this meant the prettier pieces would have to be put in the back because the warping was extremely apparent at the joints.
 
 That said, I was able to cut the pieces one night and assemble them the next!
-![](/images/planter-frame.jpg)
+![](planter-frame.jpg)
 
 #### Finishing touches
 
@@ -49,6 +49,6 @@ Now, I'm not crazy. I had no intention of lugging this thing up from the garage 
 
 The planter started out with some mint, basil, and thai basil and we've added on spring onions and a chilli pepper plant as well as some cilantro we sprouted from seeds. I'd say it's mostly been thriving, except for when the automated sprinkler didn't run for a couple weeks or when we ended up with what looked like leaf miners in the plants. But hey, they're all still alive and we now have fresh herbs for dinner and cocktails!
 
-![](/images/planter-lined.jpg)
-![](/images/planter-filled.jpg)
-![](/images/planter-planted.jpg)
+![](planter-lined.jpg)
+![](planter-filled.jpg)
+![](planter-planted.jpg)

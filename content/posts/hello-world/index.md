@@ -1,9 +1,9 @@
 ---
 title: Hello, World!
 date: 2025-06-01T09:27:57-07:00
-cover: /images/hello-world.jpg
+cover: hello-world.jpg
 images:
-  - /images/hello-world.jpg
+  - hello-world.jpg
 categories:
   - Musings
 tags:
