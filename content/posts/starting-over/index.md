@@ -2,6 +2,7 @@
 title: On starting over (again)
 date: 2025-10-28T13:24:49-07:00
 cover: office.jpg
+covercaption: One of my favorite spots from my old office
 categories:
   - musings
 tags:

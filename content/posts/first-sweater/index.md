@@ -1,13 +1,14 @@
 ---
 title: As I knit my first sweater
 date: 2025-08-16T21:28:40-07:00
-lastmod: 2025-10-27T21:28:40-07:00
-cover: felix-sweater-progress-2.jpg
-covercaption: a description of the cover image
+lastmod: 2025-11-01T23:28:40-07:00
+cover: sweater.jpg
+covercaption: Blocking the Felix pullover
 images:
   - yarn-choice.jpg
   - felix-sweater-progress-1.jpg
   - felix-sweater-progress-2.jpg
+  - sweater-arms.jpg
 categories:
   - knitting
 tags:
@@ -17,7 +18,7 @@ tags:
 nolastmod: false
 ---
 
-Things I've learned knitting the felix pullover and the mistakes I've made along the way
+Learnings from knitting (and messing up) the felix pullover
 
 <!--more-->
 
@@ -31,7 +32,7 @@ I resorted to Ravelry and then eventually YouTube to hear from others on their e
 
 That brought be to my next decision - what yarn do I buy? I was a bit wary about knitting a sweater in worsted weight, but the pattern calls for the chunkier yarn and it does have a certain charm in the project photos. After visiting Michael's and local yarn stores, I was surprised to learn that my options were either acrylic/non-wool fibers or paying upwards of $100 for quality merino wool. As someone who can easily bore of a project, a rather sizeable upfront investment isn't usually the best course. That's where Reddit's knitting community pulled through. I wanted to try knitting with 100% merino wool and stumbled upon the Knit Picks Swish line which was both affordable and well liked.
 
-![](/images/yarn-choice.jpg)
+![](yarn-choice.jpg)
 HUGE fan of the purple marled yarn color! The brown yarn is perfect for my next project, the [Silene top](http://snigdha.dev/posts/silene-top/).
 
 #### 3-2-1 Cast-on!!
@@ -41,9 +42,9 @@ True to the reviews, the sweater knit up incredibly quickly. Though the yoke and
 
 The rest of the body was an easy knit while watching TV or catching up with friends for the next two weeks.
 
-![](/images/felix-sweater-progress-1.jpg)
+![](felix-sweater-progress-1.jpg)
 
-![](/images/felix-sweater-progress-2.jpg)
+![](felix-sweater-progress-2.jpg)
 
 #### Second-sleeve syndrome is so real
 A more experienced knitter would have found my utter confusion on picking up and knitting the sleeves quite amusing. Once again, YouTube knitters saved the day and boy, the magic loop is a lifesaver since I don't have double pointed needles at the moment but it's also quite frustrating. I found that it slowed me down a fair amount but there's not really a better way to be doing this. This became even more frustrating on the second sleeve, when I was just powering through to the finish line.
@@ -52,9 +53,18 @@ Something I'd like to try for my next sweater is knitting the two sleeves at the
 
 What did work for me, however, was the timeline I set for myself. I had to be done with the sleeves by a certain time because I needed the needles for the [Silene top](http://snigdha.dev/posts/silene-top/), which I wanted to start on my flight in a couple days.
 
-Unfortunately, it's now been a month since I got back and I've yet to cast off the stitches and complete the sweater. Why? If you guessed blocking/sizing, you're an astute reader. At some point after completing the sleeves, I realized that the sleeves I knit were all the way up to the base of my thumb. Don't get me wrong, I like a long cozy sleeve to tuck my palms into! However, since I never did a blocked swatch, I have no clue how this sweater grows or shrinks in the wash. I'm okay with a wider body, but I've decided to leave the sleeves on the cord so I can rip it back if needed. I'm currently hyping myself up to go try washing the sweater to see what happens to the sleeves. Will it shrink back in the dryer or will we be repping a Slenderman inspired fall couture?
+Unfortunately, it's now been a month since I got back and I've yet to cast off the stitches and complete the sweater. Why? If you guessed blocking/sizing, you're an astute reader. At some point after completing the sleeves, I realized that the sleeves I knit were all the way up to the base of my thumb. Don't get me wrong, I like a long cozy sleeve to tuck my palms into! However, since I never did a blocked swatch, I have no clue how this sweater grows or shrinks in the wash. I'm okay with a wider body, but I've decided to leave the sleeves on the cord so I can rip it back if needed.
 
-We may never know...
+I'm currently hyping myself up to go try washing the sweater to see what happens to the sleeves. Will it shrink back in the dryer or will we be repping a Slenderman-inspired fall couture?
+
+#### Slenderman gets cold too
+
+Or maybe he doesn't, I don't really know. But if he did, he could certainly fit into this sweater.
+![](sweater-arms.jpg)
+
+I'm really glad I left the sleeves unfinished on scrap yarn, because it's time to rip back the cuff and another 3-4 inches and re-knit the cuff.
+
+
 
 *[Pattern](https://www.ravelry.com/patterns/library/felix-pullover)*: Felix pullover, by Amy Christoffers \
 *[Yarn](https://www.knitpicks.com/night-shade-heather/p/N4130v)*: Knitpicks Swish, Worsted in Night Shade Heather \
