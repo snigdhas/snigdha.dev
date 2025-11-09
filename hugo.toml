@@ -15,7 +15,9 @@ showSummaryCoverInPost = true
 
 favicon = "images/favicon.ico"
 
+rss = true
 
 [services]
 [services.googleAnalytics]
 ID = 'G-LG4JFS6MWF'
+

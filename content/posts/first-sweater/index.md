@@ -18,7 +18,7 @@ tags:
 nolastmod: false
 ---
 
-Learnings from knitting (and messing up) the felix pullover
+Learnings from knitting (and messing up) the felix pullover.
 
 <!--more-->
 
@@ -26,11 +26,11 @@ I absolutely _adore_ the excitement that comes with selecting a new project and 
 
 #### Gosh Yarn-it, there's too many choices
 
-Over the past two years, I've knit a handful of things I've really liked ranging from a [full-sized blanket](https://www.ravelry.com/projects/Snigdhas/billowy-quilted-throw-blanket) to an [adorable tank top](https://www.ravelry.com/projects/Snigdhas/olive-top), so I made it my goal for this year to knit a sweater come fall. That brought my to my first dilemma - there are hundreds of sweaters out there that proclaim to be "beginner friendly", but I'm easily bored. A sweater that's all knits the whole way down wouldn't hold my interest for very long.
+Over the past two years, I've knit a handful of things I've really liked ranging from a [full-sized blanket](https://www.ravelry.com/projects/Snigdhas/billowy-quilted-throw-blanket) to an [adorable tank top](https://www.ravelry.com/projects/Snigdhas/olive-top), so I made it my goal for this year to knit a sweater come fall. That brought my to my first dilemma: there are hundreds of sweaters out there that proclaim to be "beginner friendly", but I'm easily bored. A sweater that's all knits the whole way down wouldn't hold my interest for very long.
 
 I resorted to Ravelry and then eventually YouTube to hear from others on their experiences, which brought me to the [Wool Needles Hands](https://www.youtube.com/@WOOLNEEDLESHANDS) channel. Tayler's videos on the Felix sweater convinced me that was the way to start. The aran weight yarn should knit up quickly and was a cute and comfy design with a cheeky leaflet motif on the shoulders.
 
-That brought be to my next decision - what yarn do I buy? I was a bit wary about knitting a sweater in worsted weight, but the pattern calls for the chunkier yarn and it does have a certain charm in the project photos. After visiting Michael's and local yarn stores, I was surprised to learn that my options were either acrylic/non-wool fibers or paying upwards of $100 for quality merino wool. As someone who can easily bore of a project, a rather sizeable upfront investment isn't usually the best course. That's where Reddit's knitting community pulled through. I wanted to try knitting with 100% merino wool and stumbled upon the Knit Picks Swish line which was both affordable and well liked.
+That brought be to my next decision: what yarn do I buy? I was a bit wary about knitting a sweater in worsted weight, but the pattern calls for the chunkier yarn and it does have a certain charm in the project photos. After visiting Michael's and local yarn stores, I was surprised to learn that my options were either acrylic/non-wool fibers or paying upwards of $100 for quality merino wool. As someone who can easily bore of a project, a rather sizeable upfront investment isn't usually the best course. That's where Reddit's knitting community pulled through. I wanted to try knitting with 100% merino wool and stumbled upon the Knit Picks Swish line which was both affordable and well liked.
 
 ![](yarn-choice.jpg)
 HUGE fan of the purple marled yarn color! The brown yarn is perfect for my next project, the [Silene top](http://snigdha.dev/posts/silene-top/).
